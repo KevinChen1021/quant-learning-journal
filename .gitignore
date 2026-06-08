@@ -184,3 +184,6 @@ cython_debug/
 
 # VS Code
 .vscode/
+
+# Local AI collaboration records
+Disagreement.md
